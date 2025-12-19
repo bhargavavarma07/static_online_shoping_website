@@ -19,5 +19,5 @@ Notes:
 - No JavaScript or fancy styling, just plain HTML.
 - Prices are shown in Indian Rupees (₹).
 - Background is set to dark grey/black using basic HTML attributes.
-- Simple local images are included in the `images/` folder (SVG files).
+- Real product photos (JPEG) are included in the `images/` folder for the assignment.
 - I removed the PDF/script as requested.
