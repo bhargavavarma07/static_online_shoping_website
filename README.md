@@ -1,7 +1,7 @@
 # static_online_shoping_website
 
 This is a very simple static website made for a class assignment. It's written in plain HTML, made to look like a beginner made it.
-
+Author: **b.bhargava varma** (Roll: 2023000463)
 Files:
 
 - `home.html` — simple home page
