@@ -17,4 +17,5 @@ How to use:
 Notes:
 
 - No JavaScript or fancy styling, just plain HTML.
+- Prices are shown in Indian Rupees (₹).
 - I removed the PDF/script as requested.
